@@ -28,5 +28,6 @@
 #define ITEM_CHONOFUDA (2973)
 #define ITEM_RANKA (8803)
 #define ITEM_FURUSUMI (8804)
+#define ITEM_SOKUSHITSU_SUNEATE (28280)
 
 #endif
